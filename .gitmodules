@@ -1,0 +1,4 @@
+[submodule "test"]
+	path = git-submodules-test2
+	url = https://github.com/jesutorr84/git-submodules-test2.git
+	branch = test
